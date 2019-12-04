@@ -1,0 +1,18 @@
+.main-div {
+    background-color: rgb(37,37,37);
+    height: 100vh;
+    }
+    
+    .main-footer {
+        text-align: center;
+        background-color: salmon;
+        padding-top: 30px;
+    }
+    
+    .icon-div {
+      background: rgb(37,37,37);
+      display: block;
+      padding: 10px;
+      border-radius: 50%;
+    }
+    
